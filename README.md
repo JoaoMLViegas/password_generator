@@ -9,7 +9,7 @@ A simple password generator application built with Python and tkinter for a grap
 
 ## **Getting Started**
 ### Prerequisites
-- **Python**: Ensure you have Python installed. The app uses tkinter, which comes bundled with Python on most platforms. To check, run: 
+- **Python**: Ensure you have Python installed. The app uses tkinter, which comes bundled with Python on most platforms. To check if tkinter is installed, run: 
 ``` 
 python -m tkinter
 ```
